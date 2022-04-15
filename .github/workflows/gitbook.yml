@@ -47,4 +47,3 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.hlyani }}
         BASE_BRANCH: source
         BRANCH: master
-
